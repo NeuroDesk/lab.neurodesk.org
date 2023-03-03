@@ -1,4 +1,4 @@
-baseURL = 'http://lab.neurodesk.org/'
+baseURL = 'https://lab.neurodesk.org/'
 languageCode = 'en-us'
 title = 'Neurodesk Lab'
 theme = 'beautifulhugo'
