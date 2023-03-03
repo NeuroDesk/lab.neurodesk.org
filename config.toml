@@ -1,10 +1,10 @@
-baseURL = 'http://play.neurodesk.org/'
+baseURL = 'http://lab.neurodesk.org/'
 languageCode = 'en-us'
-title = 'Neurodesk Play'
+title = 'Neurodesk Lab'
 theme = 'beautifulhugo'
 
 [Params]
-  homeTitle = "Neurodesk Play" # Set a different text for the header on the home page
+  homeTitle = "Neurodesk Lab" # Set a different text for the header on the home page
   subtitle = "Run NeuroDesk without installing anything"
   mainSections = ["post","posts"]
 #   logo = "img/neurodesk.svg" # Expecting square dimensions
