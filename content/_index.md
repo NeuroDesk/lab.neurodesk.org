@@ -13,6 +13,8 @@ To use Neurodesk Lab, choose the link below closest to your location:
 - [North America](https://bhnam.neurodesk.org)
 - [Europe](https://bheurope.neurodesk.org)
 
+>  See [Neurodesk.org](https://www.neurodesk.org/docs/neurodesktop/getting-started/play) for information on the Neurodesk project
+
 <!-- 
 Choose from the links below closest to your location
 
