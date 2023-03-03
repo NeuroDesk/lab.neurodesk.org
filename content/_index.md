@@ -1,4 +1,19 @@
 
+Neurodesk Lab
+- Recommended for processing data across multiple sessions
+- Authenticate via GitHub
+- 50GB home directory allocated per account
+- Home directory is saved on cloud for use across multiple sessions
+
+> See [Neurodesk Play](https://play.neurodesk.org) for trying Neurodesk without sign-up or saving data
+
+To use Neurodesk Lab, choose the link below closest to your location:
+
+- [Asia/Pacific](https://bhsydney.neurodesk.org)
+- [North America](https://bhnam.neurodesk.org)
+- [Europe](https://bheurope.neurodesk.org)
+
+<!-- 
 Choose from the links below closest to your location
 
 For instructions on using Neurodesk Play/Lab check the following link
@@ -27,4 +42,4 @@ If you would like to keep your home directory across sessions, you can use the f
 | Asia/Pacific    | [start neurodesk lab](https://bhsydney.neurodesk.org/)      |
 | North America   | [start neurodesk lab](https://bhnam.neurodesk.org/)         | 
 | Europe          | [start neurodesk lab](https://bheurope.neurodesk.org/)      | 
-
+ -->
