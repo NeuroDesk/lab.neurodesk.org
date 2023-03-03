@@ -4,7 +4,7 @@ title = 'Neurodesk Lab'
 theme = 'beautifulhugo'
 
 [Params]
-  homeTitle = "Neurodesk Lab" # Set a different text for the header on the home page
+  homeTitle = "Lab" # Set a different text for the header on the home page
   subtitle = "Run NeuroDesk without installing anything"
   mainSections = ["post","posts"]
 #   logo = "img/neurodesk.svg" # Expecting square dimensions
