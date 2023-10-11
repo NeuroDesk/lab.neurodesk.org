@@ -9,6 +9,7 @@ Neurodesk Lab
 
 To use Neurodesk Lab, choose the link below closest to your location:
 
+> Warning: We will deprecate these instances in December 2023!
 - [Asia/Pacific](https://bhsydney.neurodesk.org)
 - [North America](https://bhnam.neurodesk.org)
 - [Europe](https://bheurope.neurodesk.org)
